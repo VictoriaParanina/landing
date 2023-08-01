@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+  padding: 28px;
+  background-color: skyblue;
+}
+
+.footer a {
+  font-size: 30px;
+  color:  #ecf0ee;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.footer .fas {
+  color: #BF0F12;
+}

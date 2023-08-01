@@ -1,0 +1,9 @@
+.button-blue {
+  background-color: lightskyblue;
+  border-radius: 50px;
+  color: azure;
+  display: inline-block;
+  border: 1px solid #999999;
+  padding: 10px 15px;
+  font-weight: lighter;
+}

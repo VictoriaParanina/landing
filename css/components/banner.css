@@ -1,0 +1,19 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+}
